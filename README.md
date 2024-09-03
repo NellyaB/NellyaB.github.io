@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nellya! <br/><a href="https://github.com/Nellya Bertha Malonga">
-  Programmer, Front_End Enginner</a>,
-  <a href="https://www.linkedin.com/in/Nellya Bertha Malonga/"> Aws Cloud Architect Certified! </a>. <a href="https://www.youtube.com/c/Nellya Bertha Malonga"></a></h1>
+  Programmer</a>,
+  <a href="https://www.linkedin.com/in/Nellya Bertha Malonga/"> and Aws Cloud Architect Certified. </a> <a href="https://www.youtube.com/c/Nellya Bertha Malonga"></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
